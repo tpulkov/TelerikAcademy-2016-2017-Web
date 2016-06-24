@@ -49,35 +49,35 @@ Telerik Academy 2016 - 2017 Web Development Track
 
 ---
 
-//###### [JS OOP](Homeworks/JS-OOP)
-//* [Functions and Function Expressions](Homeworks/JS-OOP/Functions-And-Function-Expressions)
-//* [Closures and Scope](Homeworks/JS-OOP/Scopes-and-Closure)
-//* [Classical Inheritance](Homeworks/JS-OOP/Classical-Inheritance)
-//* [Prototype-based inheritance](Homeworks/JS-OOP/Prototypal-Inheritance)
-//* [Modules and Patterns](Homeworks/JS-OOP/Modules-And-Patterns)
-//
-//[*Go to top* ^^^^](#telerikacademy)
-//
-//---
-//
-//###### [JS UI&DOM](Homeworks/JS-UI%26DOM)
-//* [Canvas](Homeworks/JS-UI%26DOM/Canvas)
-//* [DOM](Homeworks/JS-UI%26DOM/Document-Object-Model)
-//* [DOM Operations](Homeworks/JS-UI%26DOM/DOM-Operations)
-//* [Event Model](Homeworks/JS-UI%26DOM/Event-Model)
-//* [jQuery Overview](Homeworks/JS-UI%26DOM/jQuery-Overview)
-//* [jQuery Plugins](Homeworks/JS-UI%26DOM/jQuery-Plugins)
-//* [HTML Templates](Homeworks/JS-UI%26DOM/HTML-Templates)
-//
-//[*Go to top* ^^^^](#telerikacademy)
-//
-//---
-//
-//###### [JS APPS](Homeworks/JS-APPS)
-//* [Underscore](Homeworks/JS-APPS/Underscore)
-//
-//[*Go to top* ^^^^](#telerikacademy)
-//
-//---
-//
-//
+[//]: # (###### [JS OOP](Homeworks/JS-OOP)
+* [Functions and Function Expressions](Homeworks/JS-OOP/Functions-And-Function-Expressions)
+* [Closures and Scope](Homeworks/JS-OOP/Scopes-and-Closure)
+* [Classical Inheritance](Homeworks/JS-OOP/Classical-Inheritance)
+* [Prototype-based inheritance](Homeworks/JS-OOP/Prototypal-Inheritance)
+* [Modules and Patterns](Homeworks/JS-OOP/Modules-And-Patterns)
+
+[*Go to top* ^^^^](#telerikacademy)
+
+---
+
+###### [JS UI&DOM](Homeworks/JS-UI%26DOM)
+* [Canvas](Homeworks/JS-UI%26DOM/Canvas)
+* [DOM](Homeworks/JS-UI%26DOM/Document-Object-Model)
+* [DOM Operations](Homeworks/JS-UI%26DOM/DOM-Operations)
+* [Event Model](Homeworks/JS-UI%26DOM/Event-Model)
+* [jQuery Overview](Homeworks/JS-UI%26DOM/jQuery-Overview)
+* [jQuery Plugins](Homeworks/JS-UI%26DOM/jQuery-Plugins)
+* [HTML Templates](Homeworks/JS-UI%26DOM/HTML-Templates)
+
+[*Go to top* ^^^^](#telerikacademy)
+
+---
+
+###### [JS APPS](Homeworks/JS-APPS)
+* [Underscore](Homeworks/JS-APPS/Underscore)
+
+[*Go to top* ^^^^](#telerikacademy)
+
+---)
+
+
