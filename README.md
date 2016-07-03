@@ -33,17 +33,17 @@ Telerik Academy 2016 - 2017 Web Development Track
 
 ---
 
-###### [JS Fundamentals](Homeworks/JS-FUNDAMENTALS)
-* [Data Types and Variables](Homeworks/JS-FUNDAMENTALS/Data-Types-And-Variables)
-* [Operators and Expressions](Homeworks/JS-FUNDAMENTALS/Operators-And-Expressions)
-* [Conditional Statements](Homeworks/JS-FUNDAMENTALS/Conditional-Statements)
-* [Loops](Homeworks/JS-FUNDAMENTALS/Loops)
-* [Arrays](Homeworks/JS-FUNDAMENTALS/Arrays)
-* [Functions](Homeworks/JS-FUNDAMENTALS/Functions)
-* [Using Objects](Homeworks/JS-FUNDAMENTALS/Using-Objects)
-* [Array Methods](Homeworks/JS-FUNDAMENTALS/Array-Methods)
-* [Strings](Homeworks/JS-FUNDAMENTALS/Strings)
-* [Regular Expressions](Homeworks/JS-FUNDAMENTALS/Regular-Expressions)
+###### [JS Fundamentals](Homeworks/JavaScript Fundamentals)
+* [Data Types and Variables](Homeworks/JavaScript Fundamentals/03.Data Types and Variables)
+* [Operators and Expressions](Homeworks/JavaScript Fundamentals/04.Operators and Expressions)
+* [Conditional Statements](Homeworks/JavaScript Fundamentals/05.Conditional Statements)
+* [Loops](Homeworks/JavaScript Fundamentals/06.Loops)
+* [Arrays](Homeworks/JavaScript Fundamentals/07.Arrays)
+* [Functions](Homeworks/JavaScript Fundamentals/08.Functions)
+* [Using Objects](Homeworks/JavaScript Fundamentals/09.Using Objects)
+* [Array Methods](Homeworks/JavaScript Fundamentals/10.Array Methods)
+* [Strings](Homeworks/JavaScript Fundamentals/11.Strings)
+* [Regular Expressions](Homeworks/JavaScript Fundamentals/12.Regular Expressions)
 
 [*Go to top* ^^^^](#telerikacademy)
 
