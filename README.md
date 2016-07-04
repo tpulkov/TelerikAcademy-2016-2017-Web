@@ -19,17 +19,17 @@ Telerik Academy 2016 - 2017 Web Development Track
 * [Forms and Frames](HTML/Homeworks/04.Forms-and-Frames)
 * [Semantic HTML](/HTML/Homeworks/05.Semantic-HTML)
 
-[*Go to top* ^^^^](#telerikacademy)
+[*Go to top* ^^^^](#telerikacademy#HTML)
 
 ---
 
-###### [CSS](Homeworks/CSS)
-* [CSS Overview](Homeworks/CSS/CSS-Overview)
-* [CSS Presentation](Homeworks/CSS/CSS-Presentation)
-* [CSS Layout](Homeworks/CSS/CSS-Layout)
-* [CSS Preprocessors](Homeworks/CSS/CSS-Processors)
+###### [CSS](/CSS/homework)
+* [CSS Overview](/CSS/homework/01.CSS-Overview)
+* [CSS Presentation](/CSS/homework/02.CSS-Presentation)
+* [CSS Layout](/CSS/homework/03.CSS-Layout)
+* [CSS Preprocessors](/CSS/homework/CSS-Processors)
 
-[*Go to top* ^^^^](#telerikacademy)
+[*Go to top* ^^^^](#telerikacademy#CSS)
 
 ---
 
@@ -45,7 +45,7 @@ Telerik Academy 2016 - 2017 Web Development Track
 * [Strings](/JavaScript Fundamentals/Homeworks/11.Strings)
 * [Regular Expressions](/JavaScript Fundamentals/Homeworks/12.Regular Expressions)
 
-[*Go to top* ^^^^](#telerikacademy)
+[*Go to top* ^^^^](#telerikacademy#JSFundamentals)
 
 ---
 
@@ -69,14 +69,14 @@ Telerik Academy 2016 - 2017 Web Development Track
 [//]: # (* [jQuery Plugins](Homeworks/JS-UI%26DOM/jQuery-Plugins))
 [//]: # (* [HTML Templates](Homeworks/JS-UI%26DOM/HTML-Templates))
 [//]: # (empty line to delete after uncomment)
-[//]: # ([*Go to top* ^^^^](#telerikacademy))
+[//]: # ([*Go to top* ^^^^](#telerikacademy#JSOOP))
 [//]: # (empty line to delete after uncomment)
 [//]: # (---)
 [//]: # (empty line to delete after uncomment)
 [//]: # (###### [JS APPS](Homeworks/JS-APPS))
 [//]: # (* [Underscore](Homeworks/JS-APPS/Underscore))
 [//]: # (empty line to delete after uncomment)
-[//]: # ([*Go to top* ^^^^](#telerikacademy))
+[//]: # ([*Go to top* ^^^^](#telerikacadem#JSAPPSy))
 [//]: # (empty line to delete after uncomment)
 [//]: # (---)
 
