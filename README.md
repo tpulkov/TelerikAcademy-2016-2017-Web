@@ -13,11 +13,11 @@ Telerik Academy 2016 - 2017 Web Development Track
 
 ---
 
-###### [HTML](Homeworks/HTML)
-* [HTML Fundamentals](Homeworks/HTML/HTML-Fundamentals)
-* [Tables](Homeworks/HTML/HTML-Tables)
-* [Forms and Frames](Homeworks/HTML/HTML-Forms)
-* [Semantic HTML](Homeworks/HTML/HTML-Semantic)
+###### [HTML](HTML/Homeworks)
+* [HTML Fundamentals](HTML/Homeworks/02.HTML-Fundamentals)
+* [Tables](/HTML/Homeworks/03.Tables-and-Forms)
+* [Forms and Frames](HTML/Homeworks/04.Forms-and-Frames)
+* [Semantic HTML](/HTML/Homeworks/05.Semantic-HTML)
 
 [*Go to top* ^^^^](#telerikacademy)
 
