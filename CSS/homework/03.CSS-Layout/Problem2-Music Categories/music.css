@@ -1,0 +1,55 @@
+body{
+  background-color: #EEE;
+  font-family: 'Segoe UI'
+}
+h3{
+  font-weight: lighter;
+  font-size:1.6em;
+  margin-left: 8px;
+}
+.textArticle{
+  float: left;
+  margin-left: 22px;
+  width: 200px;
+}
+span{
+  color: #2e2e2e;
+  font-weight: 800;
+}
+p{
+  width: 200px;
+}
+img {
+  float:left;
+  border-right: 1px solid #999;
+}
+article{
+  overflow: auto;
+  width: 400px;
+  padding: 15px;
+  border: 1px solid #999;
+  background-color: #fff;
+  margin: 40px 0 30px 8px;
+}
+.divButtons{
+  float:right;
+  display: inline;
+}
+.leftButton{
+  background-image: url("./img/leftButton.png");
+  height: 26px;
+  width: 74px;
+  border: none;
+  color: #eee;
+}
+.rightButton{
+  background-image: url("./img/rightButton.png");
+  height: 26px;
+  width: 60px;
+  border: none;
+  color: #eee;
+}
+a{
+  text-decoration: none;
+  color: #eee;
+}

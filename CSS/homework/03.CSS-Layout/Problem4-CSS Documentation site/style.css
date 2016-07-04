@@ -1,0 +1,98 @@
+body {
+    font-size: 15px;
+    font-family: sans-serif;
+    background-color: #f2f2f2;
+}
+nav {
+    float: left;
+}
+a {
+    color: #950d0b
+}
+nav ul li a {
+    text-decoration: none;
+    color: black
+}
+nav ul li:first-child {
+    font-weight: bold;
+    color: #950d0b;
+}
+nav ul {
+    list-style-type: none;
+}
+nav img {
+    margin-left: 40px;
+}
+button {
+    padding: 5px;
+    width: 120px;
+    border: 1px solid black;
+    background-color: #fff
+}
+.leftButton {
+    margin-right: 22px;
+}
+.rightButton {
+    margin-left: 22px;
+}
+.articleCssPicture > img {
+    float: left;
+    margin-top: 30px;
+}
+.articleCssPicture > div {
+  padding-left: 110px;
+}
+section > header {
+    border-bottom: 2px solid #a9a9a9;
+    padding-bottom: 10px;
+}
+section {
+    float: left;
+    position: relative;
+    padding: 10px;
+    margin: 0 18px 0;
+    width: 500px;
+    border: 1px solid #a9a9a9;
+    background-color: #fff;
+}
+section article {
+    width: 500px;
+    text-align: left;
+    text-align: justify;
+}
+section article, section footer, section header {
+    padding-top: 10px;
+
+}
+section footer div {
+    height: 40px;
+    padding-top: 10px;
+    border-top: 2px solid #a9a9a9;
+}
+h4 {
+    background-color: #808080;
+    color: white;
+    padding: 2px;
+    margin: 0 0 5px 0;
+}
+aside {
+    float: left;
+    position: relative;
+}
+aside div {
+    margin: 1px;
+    padding-bottom: 10px;
+    border: 1px solid #a9a9a9;
+    display: block;
+    text-align: center;
+}
+aside div input, aside div a, aside div img {
+    margin: 10px;
+}
+#submitButton{
+  border-radius: 4px;
+  border: 1px solid #32618d;
+}
+span{
+  font-weight: bold;
+}

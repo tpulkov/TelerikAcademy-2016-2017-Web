@@ -1,0 +1,63 @@
+#wrapper {
+    width: 800px;
+    background-color: #3b3b3b;
+    border-bottom: 12px solid #3b3b3b;
+    border-top: 12px solid #343434;
+    border-radius: 12px;
+}
+body, header {
+    margin: 0;
+    padding: 0;
+}
+header {
+    padding: 0 10px 20px;
+    width: 97%;
+    position:static;
+    background-color: #343434;
+    border-bottom: 2px solid #2e2e2e;
+    font-size: 25px;
+    color: #eee;
+    display: inline-block;
+        background: linear-gradient(#343434, black 550%);
+}
+header img {
+    display: inline-block;
+    width: 55px;
+    height: 55px;
+    vertical-align: center;
+}
+header img, header input {
+    margin: 0 20px 0
+}
+h2 {
+    color: #fcd416;
+    margin: 20px, 5px;
+}
+section {
+    width: 97%;
+    background-color: #3b3b3b;
+    color: #a3a3a3;
+    padding: 10px;
+}
+p a {
+    text-decoration: none;
+    color: inherit;
+}
+section span {
+    color: #eee;
+}
+p {
+    margin: 0;
+}
+input[type="text"], input[type="email"] {
+    width: 150px;
+    height: 25px
+}
+input[type="submit"] {
+    border: none;
+    color: #eee;
+    background-image: url("./img/button.png");
+    background-size: 100% 100%;
+    width: 60px;
+    height: 35px;
+}

@@ -1,0 +1,30 @@
+body{
+  margin:0px;
+  padding:0px;
+  font-family: verdana;
+  font-size:11px;
+}
+table, tr, td{
+  width: 450px;
+  border: 1px;
+  border-style:inset;
+  border-spacing: 0;
+  text-align: left;
+}
+tr, td{
+  padding:4px;
+}
+td .flag{
+  width: 18%;
+}
+#thead{
+  background-color:#5abe06;
+  color: white;
+}
+.oddrow{
+  background-color: white;
+  color:black;
+}
+.evenrow{
+  background-color:#ececd8;
+  color:black;
