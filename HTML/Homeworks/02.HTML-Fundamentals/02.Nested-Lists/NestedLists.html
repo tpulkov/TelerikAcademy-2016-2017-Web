@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Nested Lits
+    </title>
+    <style>
+    strong{
+      font-weight: bold;
+    }
+    </style>
+</head>
+
+<body style="background-color:lightgrey; font-family:Arial; font-size: 12px;">
+
+    <div>
+        <p style="margin-top:6px; margin-bottom:14px;"><strong>Preceding Text</strong></p>
+    </div>
+
+    <div>
+        <strong>
+        <ol type="I">
+            <li style="margin-top: 6px; padding-left:26px">List Item 1</li>
+            <ol type="a">
+                <li style="margin-top: 6px;">Nested Item 1.1</li>
+                <li style="margin-top: 6px;">Nested Item 1.2</li>
+            </ol>
+            <li style="margin-top: 6px; padding-left:26px">List Item 2</li>
+            <ol>
+                <li style="margin-top: 6px;">Nested Item 2.1</li>
+                <li style="margin-top: 6px;">Nested Item 2.2</li>
+                <ul style="list-style-type:circle">
+                    <li style="margin-top: 6px;">Nested Item 2.2.1</li>
+                    <li style="margin-top: 6px;">Nested Item 2.2.2</li>
+                    <ul style="list-style-type:square">
+                        <li style="margin-top: 6px;">Nested Item 2.2.2.1</li>
+                        <li style="margin-top: 6px;">Nested Item 2.2.2.2</li>
+                    </ul>
+                    <li style="margin-top: 6px;">Nested Item 2.2.3</li>
+                </ul>
+                <li style="margin-top: 6px;">Nested Item 2.3</li>
+            </ol>
+            <li style="margin-top: 6px; padding-left:26px;">List Item 3</li>
+            <ul style="list-style-type:disc">
+                <li style="margin-top: 6px;">Nested Item 3.1</li>
+                <li style="margin-top: 6px;">Nested Item 3.2</li>
+                <li style="margin-top: 6px;">Nested Item 3.3</li>
+            </ul>
+
+        </ol>
+        </strong>
+    </div>
+</body>
+
+</html>

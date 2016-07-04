@@ -1,0 +1,18 @@
+table, tr, td {
+    background-color: #EBF4FA;
+    padding: 4px;
+    border: 1px ridge #85BB65;
+    border-collapse: collapse;
+    align: middle;
+    color: #151B54;
+    font-family: monospace, times, serif;
+    font-size: 18px;
+    text-align: center;
+    text-shadow:3px 3px 3px #95B9C7
+
+}
+.button {
+  width: 140px;
+  height: 30px;
+  font-size: 18px;
+}

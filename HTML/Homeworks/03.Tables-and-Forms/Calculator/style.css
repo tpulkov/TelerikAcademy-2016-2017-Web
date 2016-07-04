@@ -1,0 +1,30 @@
+table {
+    background-color: #C2DFFF;
+    padding: 0px;
+    border: 3px solid #347C2C;
+    font-size: 60px;
+    align: middle;
+}
+td, tr {
+    font-family: calibri;
+    border: 3px solid #347C2C;
+    background-color: #B5EAAA;
+    padding: 1px;
+    margin: 1px;
+}
+tr {
+    align-content: center;
+}
+#table {
+    -ms-align-items: left;
+    align-items: left;
+}
+#text {
+    background-color: #c6deff;
+    color: #56a5ec;
+    font-size: 36px;
+}
+.button {
+    font-size: 100px;
+    width: 80px
+}

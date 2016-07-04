@@ -1,0 +1,15 @@
+#text {
+    font-size: 15px;
+    font-family: cursive;
+    width: 280px;
+    padding: 0 15px;
+}
+h2 {
+    font-size: 30px;
+    margin: 0;
+    text-align: center;
+}
+img {
+    width: 220px;
+    height: 180px;
+}

@@ -1,0 +1,75 @@
+body {
+    background-image: url("craft-beers.jpg");
+}
+body {
+    margin: 0;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #36282b;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover:not(.active) {
+    background-color: #f5f62f;
+    color: black;
+}
+#logo {
+    width: 40px;
+    height: 50px;
+    padding: 0px;
+    margin: 0;
+}
+#head{
+  font-size: 40px;
+  text-align: center;
+}
+#headernav {
+    padding: 0px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    background-color: #36282b;
+    height: 20px;
+    text-align: center;
+    color: #e7e14f;
+    height: 40px;
+    font-size: 20px;
+    width: 70%;
+    margin-left: 15%;
+}
+#body {
+    padding: 40px;
+    margin-top: 0px;
+    background-color: #ccc6ba;
+    height: 20px;
+    text-align: left;
+    color: blue;
+    height: 40px;
+    font-size: 14px;
+    width: 65%;
+    height: 145%;
+    margin-left: 15%;
+}
+#footer {
+    padding: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    background-color: #36282b;
+    height: 16px;
+    text-align: center;
+    color: #e7e14f;
+    width: 70%;
+    height: 25%;
+    margin-left: 15%;
+}

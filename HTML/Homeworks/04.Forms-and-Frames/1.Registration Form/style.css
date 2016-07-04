@@ -1,0 +1,85 @@
+body {
+    background-color: #FCDFFF;
+    font-size: 18px;
+    font-family: georgia, comic, monospace, arial, times;
+}
+table {
+    border-collapse: collapse;
+    border: 2px ridge #504A4B;
+    width: 160px;
+}
+tr, td {
+    border: 1px ridge #504A4B;
+}
+#footer {
+    margin: 10px;
+    padding: 10px;
+    font-size: 24px;
+}
+#lname {
+    width: 300px;
+    height: 18px;
+}
+#fname {
+    width: 300px;
+    height: 18px;
+}
+#address {
+    width: 300px;
+    height: 18px;
+}
+#Fphone {
+    width: 36px;
+    height: 18px;
+}
+#Mphone {
+    width: 60px;
+    height: 18px;
+}
+#Lphone {
+    width: 154px;
+    height: 18px;
+}
+#email{
+      width: 166px;
+      height: 18px;
+}
+#state {
+    width: 36px;
+    height: 18px;
+    align-self: right;
+}
+#month {
+    width: 30px;
+    height: 18px;
+}
+#day {
+    width: 30px;
+    height: 18px;
+}
+#year {
+    width: 36px;
+    height: 18px;
+}
+#comment {
+    width: 300px;
+    height: 100px;
+    font-size: 16px;
+}
+.button {
+    width: 140px;
+    height: 30px;
+    font-size: 18px;
+}
+.left {
+    text-align: left;
+}
+.right {
+    text-align: right;
+}
+.div {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}

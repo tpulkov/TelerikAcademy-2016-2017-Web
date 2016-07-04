@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, monospace, times;
+}
+
+table, th, td {
+    font-size: 22px;
+    text-align: center;
+    border: 2px solid grey;
+    border-collapse: collapse;
+    padding: 20px;
+}
+
+a {
+    font-size: 22px;
+    color: darkblue;
+    text-decoration: none;
+}
+
+img {
+    width: 120px;
+    height: 60px;
+    padding-left: 20px;
+    vertical-align: middle;
+}
+
+h1 {
+    display: inline-block;
+    vertical-align: middle;
+}
+#logo{
+  height: 100px;
+  width: 80px;
+}
